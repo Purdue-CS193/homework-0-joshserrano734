@@ -39,6 +39,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 # joshserrano734's first cs193 homework
 - the class is easy
 - i have friends from high school in it
-- 
 
 
